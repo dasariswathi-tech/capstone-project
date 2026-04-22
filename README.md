@@ -6,10 +6,15 @@ This project focuses on analyzing crime data to identify patterns, trends, and k
 
 **Objectives**
 Clean and preprocess raw crime data
+
 Perform exploratory data analysis (EDA)
+
 Identify high-crime locations and common crime types
+
 Analyze trends based on date and time
+
 Generate visual insights using charts and graphs
+
 Write SQL queries for business/problem statements
 
 **Tools & Technologies Used**
