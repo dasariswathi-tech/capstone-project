@@ -57,10 +57,11 @@ Build interactive dashboard using Power BI / Tableau
 Deploy web dashboard using Streamlit
 Use Machine Learning for crime prediction
 Real-time crime monitoring system
-Author
+
+**Author**
 
 Swathi Dasari
 
-GitHub Repository
+**GitHub Repository**
 
 Capstone Project - Crime Data Analysis
