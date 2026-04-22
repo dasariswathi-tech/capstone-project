@@ -1,72 +1,114 @@
-Crime Data Analysis
+# Crime Data Analysis
 
-**Project Overview**
+## Portfolio Project | Data Analyst | Python | SQL | Data Visualization
 
-This project focuses on analyzing crime data to identify patterns, trends, and key insights using Python, SQL, and data visualization techniques. The objective is to understand crime frequency, locations, categories, and time-based trends to support data-driven decision making.
+---
 
-**Objectives**
-Clean and preprocess raw crime data
+## Project Overview
 
-Perform exploratory data analysis (EDA)
+This project focuses on analyzing crime data to identify patterns, trends, and key insights using Python, SQL, and data visualization techniques. The objective is to understand crime frequency, locations, categories, and time-based trends to support data-driven decision-making.
 
-Identify high-crime locations and common crime types
+---
 
-Analyze trends based on date and time
+## Objectives
 
-Generate visual insights using charts and graphs
+* Clean and preprocess raw crime data
+* Perform exploratory data analysis (EDA)
+* Identify high-crime locations
+* Find most common crime categories
+* Analyze trends based on date and time
+* Generate charts and visual insights
+* Write SQL queries for problem statements
 
-Write SQL queries for business/problem statements
+---
 
-**Tools & Technologies Used**
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
-SQL
-Dataset
+## Tools & Technologies Used
 
-The dataset used in this project contains crime-related records such as:
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* SQL
+* Jupyter Notebook
 
-Crime Type
-Date & Time
-Location
-Area
-Status
-Victim Details
-Key Analysis Performed
-Total crimes reported
-Most common crime categories
-Crime distribution by area
-Monthly / yearly crime trends
-Arrest status analysis
-Victim age and demographic insights
+---
 
-**Files in Repository**
+## Dataset Information
 
-Capstone project.ipynb – Main analysis notebook
-crime_data.csv – Dataset used for analysis
-SQL_Project_solution QMP1.docx – SQL solutions
-README.md – Project documentation
-Results & Insights
+The dataset contains crime-related records such as:
 
-This analysis helps identify:
+* Crime Type
+* Date & Time
+* Location
+* Area
+* Status
+* Victim Details
 
-Crime hotspots
-Frequently occurring crimes
-Seasonal crime trends
-Areas needing improved law enforcement focus
-Future Improvements
-Build interactive dashboard using Power BI / Tableau
-Deploy web dashboard using Streamlit
-Use Machine Learning for crime prediction
-Real-time crime monitoring system
+---
 
-**Author**
+## Key Analysis Performed
 
-Swathi Dasari
+* Total crimes reported
+* Most common crime categories
+* Crime distribution by area
+* Monthly / yearly crime trends
+* Arrest status analysis
+* Victim age and demographic insights
 
-**GitHub Repository**
+---
+
+## Files in Repository
+
+* `crime_data_analysis.ipynb` – Main analysis notebook
+* `crime_data.csv` – Dataset used for analysis
+* `images/` – Project charts and screenshots
+* `README.md` – Project documentation
+
+---
+
+## Project Screenshots
+
+### Crime Occurrence Over Time
+
+![Crime Trend](images/crime_occurance_over_time.png)
+
+### Common Crimes Based on Crime Code
+
+![Crime Code](images/common_crimes_based_on_their_crime code.png)
+
+### Crime in Geographical Conditions
+
+![Geographical Analysis](images/crime_in_geographical_conditions.png)
+
+---
+
+## Key Insights
+
+* Certain crime categories occur more frequently than others
+* Some areas show higher crime rates
+* Crime trends vary across time periods
+* Data can support better law enforcement planning
+
+---
+
+## Future Improvements
+
+* Build interactive dashboard using Power BI / Tableau
+* Deploy web dashboard using Streamlit
+* Apply Machine Learning for crime prediction
+* Real-time crime monitoring system
+
+---
+
+## Author
+
+**Swathi Dasari**
+
+---
+
+## GitHub Repository
 
 Capstone Project - Crime Data Analysis
+
+
